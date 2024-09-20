@@ -14,5 +14,12 @@
   "description": "",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "d": "^1.0.2",
+    "json": "^11.0.0",
+    "live": "^0.1.25-beta.0",
+    "server": "^1.0.39"
   }
 }
